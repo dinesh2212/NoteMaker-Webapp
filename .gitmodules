@@ -1,3 +1,6 @@
 [submodule "NoteMaker-backend"]
 	path = NoteMaker-backend
 	url = https://github.com/dinesh2212/NoteMaker-backend.git
+[submodule "NoteMaker-frontend"]
+	path = NoteMaker-frontend
+	url = https://github.com/dinesh2212/NoteMaker-frontend.git
