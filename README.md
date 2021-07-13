@@ -39,3 +39,7 @@ You can install all the react dependancies by running:
 ```
 
 You can then use the app by entering into http://localhost:3000 on your browser
+
+### Note :
+
+It is advised to use the CORS-Unblock browser extension when testing this app on your browser
